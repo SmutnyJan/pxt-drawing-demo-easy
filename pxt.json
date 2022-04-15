@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-drawing-extension": "github:microbit-cz/pxt-drawing-extension#86c393ab8e2fadb81907c2bf37ab6323c68730f0"
     },
     "files": [
         "README.md",
